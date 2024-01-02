@@ -8,3 +8,7 @@ with a focus on diving deep into the world of programming. My projects stem from
 in my everyday life. I aspire to one day work in the field of programming, turning my self-taught skills into a fulfilling career.
 
 ---
+
+### Languages & Tools
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
