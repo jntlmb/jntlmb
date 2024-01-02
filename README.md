@@ -1,4 +1,4 @@
 # 👨‍💻 JNTLMB 
 
-**'Hobby Coder / 3D Artist'**
+**`Hobby Coder / 3D Artist`**
 <!-- Wer bin ich und was mach ich?>
