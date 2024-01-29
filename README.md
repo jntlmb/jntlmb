@@ -1,6 +1,6 @@
 # 🐣 JNTLMB 
 
-**`Hobby Coder / 3D Artist`**
+**`Hobby Programmer / 3D Artist`**
 
 Hi there! 👋
 I'm a self-taught hobby developer and 3D artist. Currently, I'm on a journey to teach myself both coding and 3D design,
