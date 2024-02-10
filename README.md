@@ -1,4 +1,4 @@
-# 🐣 JNTLMB 
+# 🐣 jntlmb 
 
 **`Hobby Programmer / 3D Artist`**
 
