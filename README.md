@@ -11,7 +11,7 @@ in my everyday life.
 
 ### 🔧 Languages & Tools
 
-#### ⭐️ Skills
+#### ⭐️          Skills
 <!--- Python --->
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <!--- Blender --->
@@ -27,7 +27,7 @@ in my everyday life.
 
 <br>
 
-#### 🔮 For the Future
+#### 🔮          For the Future
 <!--- HTML --->
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <!--- CSS --->
