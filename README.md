@@ -9,7 +9,7 @@ in my everyday life.
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Toolbox
 
 #### Skills
 <!--- Python --->
