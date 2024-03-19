@@ -3,7 +3,7 @@
 **`Hobby Programmer / 3D Artist`**
 
 Hi there! 👋
-I'm a self-taught developer and currentlyn a journey to teach myself both coding and 3D design,
+I'm a self-taught developer and currently on a journey to teach myself both coding and 3D design,
 with a focus on diving deep into the world of programming. My projects stem from a passion for solving real-life challenges I encounter
 in my everyday life.
 
