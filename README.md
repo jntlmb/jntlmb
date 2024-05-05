@@ -7,6 +7,8 @@ I'm a self-taught developer and currently on a journey to teach myself both codi
 with a focus on diving deep into the world of programming. My projects stem from a passion for solving real-life challenges I encounter
 in my everyday life.
 
+I use Vim btw.
+
 ---
 
 ### 🧰 Toolbox
