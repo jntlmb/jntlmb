@@ -2,7 +2,8 @@
 
 **`Hobby Programmer / 3D Artist`**
 
-Hi there! 👋 I'm a passionate developer and 3D designer. 🚀 On a journey to master coding and bring my creative ideas to life through programming and 3D design. My projects are driven by a desire to solve real-world problems and enhance everyday experiences. Always eager to learn, explore, and innovate.
+Hi there!
+I'm a passionate developer and 3D designer. On a journey to master coding and bring my creative ideas to life through programming. My projects are driven to solve real-world problems and enhance everyday experiences. Always eager to learn, explore, and innovate.
 
 Vim enthusiast.
 
