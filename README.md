@@ -46,72 +46,72 @@ Vim enthusiast.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="TypeScript"
+        alt="Python"
       />
-      <br /><strong>TypeScript</strong>
+      <br /><strong>Python</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
-        alt="VueJS"
+        alt="HTML"
       />
-      <br /><strong>Vue</strong>
+      <br /><strong>HTML</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
         width="48"
         height="48"
-        alt="Nuxt"
+        alt="CSS"
       />
-      <br /><strong>Nuxt</strong>
+      <br /><strong>CSS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
         width="48"
         height="48"
-        alt="React"
+        alt="VScode"
       />
-      <br /><strong>React</strong>
+      <br /><strong>VScode</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
-        alt="Next"
+        alt="Git"
       />
-      <br /><strong>Next</strong>
+      <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
         width="48"
         height="48"
-        alt="Sass"
+        alt="GitHub"
       />
-      <br /><strong>Sass</strong>
+      <br /><strong>GitHub</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="JavaScript"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>JavaScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="Node.js"
       />
-      <br /><strong>Material UI</strong>
+      <br /><strong>Node.js</strong>
     </td>
   </tr>
 </table>
