@@ -75,12 +75,12 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
         width="48"
         height="48"
-        alt="GitHub"
+        alt="PostgreSQL"
       />
-      <br /><strong>GitHub</strong>
+      <br /><strong>PostgreSQL</strong>
     </td>
     </td>
   </tr>
@@ -94,30 +94,30 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
         width="48"
         height="48"
-        alt="Python"
+        alt="React"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="TailwindCSS"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
         width="48"
         height="48"
-        alt="Node.js"
+        alt="Next.js"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>Next.js</strong>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -129,10 +129,10 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        src=" "
         width="48"
         height="48"
-        alt="CSS"
+        alt=" "
       />
       <br /><strong>CSS</strong>
     </td>
