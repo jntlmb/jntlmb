@@ -88,7 +88,7 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
 
 ---
 
-### 📚 Currently Learning
+### 📚 Planning To Learn
 
 <table>
   <tr>
@@ -120,7 +120,7 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
       <br /><strong>Next.js</strong>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
         width="48"
         height="48"
         alt="Express.js"
@@ -135,34 +135,6 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
         alt="Django"
       />
       <br /><strong>Django</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src=" "
-        width="48"
-        height="48"
-        alt=" "
-      />
-      <br /><strong> </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src=" "
-        width="48"
-        height="48"
-        alt=" "
-      />
-      <br /><strong> </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src=" "
-        width="48"
-        height="48"
-        alt=" "
-      />
-      <br /><strong> </strong>
-    </td>
     </td>
   </tr>
 </table>
