@@ -120,12 +120,12 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
       <br /><strong>Next.js</strong>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+        src=" "
         width="48"
         height="48"
-        alt="HTML"
+        alt=" "
       />
-      <br /><strong>HTML</strong>
+      <br /><strong> </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -134,34 +134,34 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
         height="48"
         alt=" "
       />
-      <br /><strong>CSS</strong>
+      <br /><strong> </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        src=" "
         width="48"
         height="48"
-        alt="VScode"
+        alt=" "
       />
-      <br /><strong>VScode</strong>
+      <br /><strong> </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src=" "
         width="48"
         height="48"
-        alt="Git"
+        alt=" "
       />
-      <br /><strong>Git</strong>
+      <br /><strong> </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+        src=" "
         width="48"
         height="48"
-        alt="GitHub"
+        alt=" "
       />
-      <br /><strong>GitHub</strong>
+      <br /><strong> </strong>
     </td>
     </td>
   </tr>
