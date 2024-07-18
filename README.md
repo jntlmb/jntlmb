@@ -57,12 +57,12 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
         width="48"
         height="48"
-        alt="VScode"
+        alt="Sass"
       />
-      <br /><strong>VScode</strong>
+      <br /><strong>Sass</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
