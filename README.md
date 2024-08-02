@@ -48,21 +48,21 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
         width="48"
         height="48"
         alt="Sass"
       />
       <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+        width="48"
+        height="48"
+        alt="TailwindCSS"
+      />
+      <br /><strong>Tailwind</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
