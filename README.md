@@ -127,5 +127,14 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
       />
       <br /><strong>Django</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg"
+        width="48"
+        height="48"
+        alt="three.js"
+      />
+      <br /><strong>three.js</strong>
+    </td>
   </tr>
 </table>
