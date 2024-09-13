@@ -73,16 +73,6 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
       />
       <br /><strong>Git</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
-    </td>
   </tr>
 </table>
 
@@ -136,5 +126,13 @@ I'm a passionate developer and 3D designer. On a journey to master coding and br
       />
       <br /><strong>three.js</strong>
     </td>
-  </tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+        width="48"
+        height="48"
+        alt="PostgreSQL"
+      />
+      <br /><strong>PostgreSQL</strong>
+    </td>  </tr>
 </table>
