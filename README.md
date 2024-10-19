@@ -1,8 +1,7 @@
 # 🐣 jntlmb 
 
 **`Programmer / 3D Artist`**
-
-self taught idiot
+self-taught, focused, curious, problem-solver, idiot
 
 ---
 
