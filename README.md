@@ -1,6 +1,6 @@
 # 🐣 jntlmb 
 
-**`Programmer / 3D Artist`**
+**`Programmer`**
 
 self-taught, curious & driven
 
