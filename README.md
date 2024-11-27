@@ -2,7 +2,7 @@
 
 **`Programmer / 3D Artist`**
 
-self-taught, curious & driven dude
+self-taught, curious & driven
 
 ---
 
