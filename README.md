@@ -1,8 +1,6 @@
 # 🐣 jntlmb 
 
-**`Programmer`**
-
-self-taught, curious & driven
+Hi
 
 ---
 
