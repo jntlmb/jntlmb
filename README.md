@@ -1,9 +1,3 @@
-# jntlmb
-
-Hi
-
----
-
 ### 🧰 Technologies
 
 <table>
