@@ -39,6 +39,10 @@
       <br /><strong>Tailwind</strong>
     </td>
       <td align="center" height="108" width="108">
+      <img width="48" height="48" alt="drizzle-icon" src="https://github.com/user-attachments/assets/7c93f791-9654-48f8-8641-a829f7e62d2b" />
+      <br /><strong>Drizzle</strong>
+    </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -46,16 +50,12 @@
         alt="Node.js"
       />
       <br /><strong>Node.js</strong>
-    </td>
-      
-  <td align="center" height="108" width="108">
+    </td>      
+    <td align="center" height="108" width="108">
       <img width="48" height="48" alt="express-icon" src="https://github.com/user-attachments/assets/9fcf114d-3038-4eee-b9d8-5bc646959b5e" />
       <br /><strong>Express.js</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img width="48" height="48" alt="drizzle-icon" src="https://github.com/user-attachments/assets/7c93f791-9654-48f8-8641-a829f7e62d2b" />
-      <br /><strong>Drizzle</strong>
-    </td>
+  
   </tr>
 </table>
 
