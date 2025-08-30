@@ -4,7 +4,7 @@ Hi
 
 ---
 
-### 🧰 Toolbox
+### 🧰 Technologies
 
 <table>
   <tr>
@@ -19,38 +19,30 @@ Hi
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br /><strong>Next.js</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
-        alt="JavaScript"
+        alt="TypeScript"
       />
-      <br /><strong>JavaScript</strong>
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
         width="48"
         height="48"
-        alt="Node.js"
+        alt="React"
       />
-      <br /><strong>Node.js</strong>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-        width="48"
-        height="48"
-        alt="Sass"
-      />
-      <br /><strong>Sass</strong>
+      <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -61,14 +53,24 @@ Hi
       />
       <br /><strong>Tailwind</strong>
     </td>
-    <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Node.js"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>Node.js</strong>
+    </td>
+      
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+        width="48"
+        height="48"
+        alt="Express.js"
+      />
+      <br /><strong>Express.js</strong>
     </td>
   </tr>
 </table>
@@ -96,15 +98,8 @@ Hi
         alt="Next.js"
       />
       <br /><strong>Next.js</strong>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express.js"
-      />
-      <br /><strong>Express.js</strong>
     </td>
+    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
