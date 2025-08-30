@@ -63,6 +63,10 @@ Hi
       />
       <br /><strong>Express.js</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img width="48" height="48" alt="drizzle-orm" src="https://github.com/user-attachments/assets/6b07893b-c9cd-4e11-805a-dba14b82f2ff" />
+      <br /><strong>Drizzle</strong>
+    </td>
   </tr>
 </table>
 
