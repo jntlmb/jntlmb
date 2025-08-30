@@ -64,7 +64,7 @@ Hi
       <br /><strong>Express.js</strong>
     </td>
     <td align="center" height="108" width="108">
-      <img width="48" height="48" alt="drizzle-orm" src="https://github.com/user-attachments/assets/6b07893b-c9cd-4e11-805a-dba14b82f2ff" />
+      <img width="48" height="48" alt="drizzle-icon" src="https://github.com/user-attachments/assets/7c93f791-9654-48f8-8641-a829f7e62d2b" />
       <br /><strong>Drizzle</strong>
     </td>
   </tr>
