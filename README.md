@@ -55,12 +55,7 @@ Hi
     </td>
       
   <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express.js"
-      />
+      <img width="48" height="48" alt="express-icon" src="https://github.com/user-attachments/assets/9fcf114d-3038-4eee-b9d8-5bc646959b5e" />
       <br /><strong>Express.js</strong>
     </td>
     <td align="center" height="108" width="108">
